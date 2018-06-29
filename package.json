@@ -1,0 +1,30 @@
+{
+  "name": "syntera",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mudspot/syntera.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mudspot/syntera/issues"
+  },
+  "homepage": "https://github.com/mudspot/syntera#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "ethereumjs-wallet": "^0.6.0",
+    "truffle-hdwallet-provider": "0.0.3",
+    "truffle-wallet-provider": "0.0.5",
+    "zeppelin-solidity": "1.8.0"
+  }
+}
